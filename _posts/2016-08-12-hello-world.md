@@ -7,7 +7,7 @@ subtitle: Hello world, our very first post!
 Hello world!
 
 So here is our first post ond tierralibre!
-We decided to use open source softawre and hosting. We use [Jekyll](https://jekyllrb.com) for blogging, simple, plain text, no database no complication.
+We decided to use open source software and hosting. We use [Jekyll](https://jekyllrb.com) for blogging, simple, plain text, no database no complication.
 
 For hosting we decided to use [GitHub Pages](https://github.com) is free and where most of the open source projects live.
 
