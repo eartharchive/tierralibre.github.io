@@ -40,23 +40,23 @@ avatar: "/img/logo3.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
-  email: "youremail@domain.com"
-  facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
-  twitter: yourname   # eg. daattali
+  name: TierraLibre
+  email: "tierralibre@nym.hush.com"
+  #facebook: yourname  # eg. daattali
+  github: tierralibre   # eg. daattali
+  #twitter: yourname   # eg. daattali
   linkedin: yourname  # eg. daattali
-  xing: yourname      # eg. daattali
-  stackoverflow: yourlink  # eg. "3943160/daattali"
-  instagram: yourname # eg. daattali
-  youtube: yourlink # eg. user/daattali or channel/daattali
+  #xing: yourname      # eg. daattali
+  #stackoverflow: yourlink  # eg. "3943160/daattali"
+  #instagram: yourname # eg. daattali
+  #youtube: yourlink # eg. user/daattali or channel/daattali
 
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
+  facebook: false
   email: true
-  twitter: true
+  twitter: false
   github: true
   linkedin: false
   xing: false
