@@ -7,16 +7,16 @@ subtitle: Hello world, our very first post!
 Hello world!
 
 So here is our first post ond tierralibre!
-We decided to use open source softawre and hosting. We use Jekyll for the blogging, simple, plain text, no database no complication.
+We decided to use open source softawre and hosting. We use [Jekyll](https://jekyllrb.com) for blogging, simple, plain text, no database no complication.
 
 For hosting we decided to use [GitHub Pages](https://github.com) is free and where most of the open source projects live.
 
-We have used a theme for Jekyll which works in phones and computers, is simple and beatiful. [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll#readme).
+We have used a theme for Jekyll which works in phones, computers, everywher; is simple and beatiful. [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll#readme).
 In the link above you can find detail instructions on how to have your website running in minutes.
 
 But in essence you need a github account then you navigate to the link above containing the theme and fork it. (When you fork a repository, you make it your own version and you can make changes on it).
 
-We will be posting all our designs in github. So everybody is welcome to fork it and to send changes and improvements. Github is a great platform to collaborate in designs. 
+We will be posting all our designs in github. So everybody is welcome to fork it and to send changes, improvements, whatever you think is usefull. Github is a great platform to collaborate in designs. 
 We will further show how we can use github to make a collaborative permaculture design and use forking and commits to communicate and share changes.
 
 Enjoy!
