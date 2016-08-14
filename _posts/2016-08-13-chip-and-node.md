@@ -6,11 +6,11 @@ subtitle: Installing node on Chip and enabling i2c with node.
 
 There is a little linux computer called [Chip](https://getchip.com/pages/chip) which costs 9$ it comes with 4gb of disk, 512mb of RAM bluetooth, wifi and a bunch of gpio's.
 I wanted to set nodejs with it in order to talk to the BME280 environment sensor, which provides temperature, humidity and pressure.
-This posts outlines the steps to have to quickly do it.
+This posts outlines the steps to quickly do it.
 
-First we install node from [nodesource](https://github.com/tierralibre/distributions#debinstall) by typing the following on the Chip terminal. (There is documentation on how to get CHip connected via terminal on the Chip docs).
+First we install node from [nodesource](https://github.com/tierralibre/distributions#debinstall) by typing the following on the Chip terminal. (There is documentation on how to get Chip connected via terminal on the Chip docs).
 
-THis posts assumes you are using Chip's debian image.
+This posts assumes you are using Chip's debian image.
 
 ~~~
 curl -sL https://deb.nodesource.com/setup_6.x | bash -
