@@ -11,7 +11,7 @@ We decided to use open source software and hosting. We use [Jekyll](https://jeky
 
 For hosting we decided to use [GitHub Pages](https://github.com) is free and where most of the open source projects live.
 
-We have used a theme for Jekyll which works in phones, computers, everywher; is simple and beatiful. [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll#readme).
+We have used a theme for Jekyll which works in phones, computers, everywhere; is simple and beatiful. [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll#readme).
 In the link above you can find detail instructions on how to have your website running in minutes.
 
 But in essence you need a github account then you navigate to the link above containing the theme and fork it. (When you fork a repository, you make it your own version and you can make changes on it).
