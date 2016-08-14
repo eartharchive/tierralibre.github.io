@@ -19,7 +19,7 @@ Here we found our website and blog, enjoy.
 
 Theme based on:
 
-> *Copyright 2016 [Dean Attali](http://deanattali.com). Licensed under the MIT license.*
+> *[Beutyful Jekyll from](http://deanattali.com). Licensed under the MIT license.*
 
 ## About
 
