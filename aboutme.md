@@ -4,7 +4,7 @@ title: About us
 subtitle: Learning by doing!
 ---
 
-Our goal is to build a Ecological and Smart Farm School in La Palma, Spain.
+Our goal is to build an Ecological and Smart Farm School in La Palma, Spain.
 We will be using Permaculture and Agroforestry principles. 
 The smart part will be be provided by using open source software and technology.
 Software to map and help make designs.
