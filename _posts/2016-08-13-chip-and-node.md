@@ -26,6 +26,10 @@ sudo apt-get install -y build-essential g++ python-setuptools python2.7-dev
 
 Now we can go ahead and install our i2c packages via npm.
 
+~~~
+npm install i2c
+~~~
+
 If it does not work there are some instructions on the i2c npm package which can be handy about loading the i2c-dev module etc ...
 
 In a next post we will discuss about using the BMO280 sensor as part of a environmental adquisition project.
