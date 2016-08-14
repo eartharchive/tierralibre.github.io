@@ -4,7 +4,7 @@ title: Chip and Nodejs
 subtitle: Installing node on Chip and enabling i2c with node.
 ---
 
-There is a little linux computer called chip which costs 9$ it comes with 4gb of disk, 512mb of RAM bluetooth, wifi and a bunch of gpio's.
+There is a little linux computer called [Chip](https://getchip.com/pages/chip) which costs 9$ it comes with 4gb of disk, 512mb of RAM bluetooth, wifi and a bunch of gpio's.
 I wanted to set nodejs with it in order to talk to the BME280 environment sensor, which provides temperature, humidity and pressure.
 This posts outlines the steps to have to quickly do it.
 
