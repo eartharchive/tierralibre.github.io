@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About us
+subtitle: Learning by doing!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Our goal is to build a Ecological and Smart Farm School in La Palma, Spain.
+We will be using Permaculture and Agroforestry principles. 
+The smart part will be be provided by using open source software and technology.
+Software to map and help make designs.
+Hardware and software to capture data; environmental data, animal data.
+Everything we learn will be posted in this website which is fully open source and hosted on [GitHub](https://github.com), so fill free to fork it and help us improve it.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Lot's of things to learn and share. But we believe that we learn by doing!
