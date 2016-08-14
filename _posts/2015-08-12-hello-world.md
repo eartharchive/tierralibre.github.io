@@ -1,3 +1,8 @@
+---
+layout: post
+title: Hello world!
+subtitle: Hello world, our very first post!
+---
 
 Hello world!
 
