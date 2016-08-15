@@ -11,9 +11,9 @@ QGIS is a great mapping tool which can be used to help us with our permaculture 
 
 
 The WMS sources used are the following:  
-- Raster: http://www.ign.es/wms-inspire/mapa-raster?
-- Catastro: http://ovc.catastro.meh.es/Cartografia/WMS/ServidorWMS.aspx?
-- Ortophotes: http://www.ign.es/wms-inspire/pnoa-ma?
+- Raster: http://www.ign.es/wms-inspire/mapa-raster?  
+- Catastro: http://ovc.catastro.meh.es/Cartografia/WMS/ServidorWMS.aspx?  
+- Ortophotes: http://www.ign.es/wms-inspire/pnoa-ma?  
 
 There is a lot that QGIS can do and plenty of tutorials on the net.
 
