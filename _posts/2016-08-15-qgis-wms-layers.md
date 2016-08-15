@@ -8,9 +8,9 @@ In today's post we have a screencast on how to add WMS layers to [QGIS](https://
 QGIS is a great mapping tool which can be used to help us with our permaculture designs.
 
 <iframe src="https://player.vimeo.com/video/178970000" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/178970000">QGIS WMS layers howto</a> from <a href="https://vimeo.com/user45810603">angel imaz</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-The WMS sources used are the following:
+
+The WMS sources used are the following:  
 - Raster: http://www.ign.es/wms-inspire/mapa-raster?
 - Catastro: http://ovc.catastro.meh.es/Cartografia/WMS/ServidorWMS.aspx?
 - Ortophotes: http://www.ign.es/wms-inspire/pnoa-ma?
