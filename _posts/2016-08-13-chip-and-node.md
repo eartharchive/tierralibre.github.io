@@ -32,7 +32,7 @@ npm install i2c
 
 If it does not work there are some instructions on the i2c npm package which can be handy about loading the i2c-dev module etc ...
 
-In the next post we will discuss using the BMO280 sensor as part of a environmental adquisition project.
+In the next post we will discuss using the BMO280 sensor as part of a environmental data adquisition project.
 
 I hope it helps!
 
