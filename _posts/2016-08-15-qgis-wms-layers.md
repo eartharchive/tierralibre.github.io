@@ -15,7 +15,7 @@ The WMS sources used are the following:
 - Catastro: http://ovc.catastro.meh.es/Cartografia/WMS/ServidorWMS.aspx?  
 - Ortophotos: http://www.ign.es/wms-inspire/pnoa-ma?  
 
-Most countries offer this services, for example the Dutch: https://geodata.nationaalgeoregister.nl/top10nlv2/wms? with a quick google search it should be easy to find the one for your country.
+Most countries offer this services, for example the Dutch: https://www.pdok.nl with a quick google search it should be easy to find the one for your country.
 
 There is a lot that QGIS can do and plenty of tutorials on the net.
 
