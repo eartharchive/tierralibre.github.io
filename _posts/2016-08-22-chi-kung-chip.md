@@ -4,7 +4,8 @@ title: C.H.I.P Chi Kung
 subtitle: Chi Kung assistant with C.H.I.P proof of concept
 ---
 Welcome!
-In today's post I would like to discuss about a new project I am working on, which is to use the Wii Balance board as a source of input to help with Chi Kung postures.
+In today's post I would like to discuss about a new project I am working on, which is to use the [Wii Balance Board](https://en.wikipedia.org/wiki/Wii_Balance_Board) as a source of input to help with Chi Kung postures.
+
 So the plan is:  
 1) Connect the Balance Board to the [C.H.I.P](https://www.getchip.com) or Raspberry Pi so we can read it's values.
 2) Make a backend that we can subscribe too to get event data. (The balance board give us weigt in its four corners)
