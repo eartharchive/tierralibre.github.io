@@ -31,7 +31,7 @@ To do:
 - Add connection to heartbeat data. (To measure heartbit during treainning together with posture)
 - Make it adapt to phones, tablets, desktop
 
-If you have any ideas on how to improve it or functionality that should be interesting, feel happy to comment.
+If you have any ideas on how to improve it or functionality that should be interesting, feel free to comment.
 
 Full code is on: [Wii Chikung](https://github.com/tierralibre/wii-chikung)
 
