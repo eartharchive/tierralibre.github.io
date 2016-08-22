@@ -15,12 +15,14 @@ So here we have a quick demo of the proof of concept:
 <iframe src="https://player.vimeo.com/video/179723181" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Is a work in progress and the calculations for the data still need to be adjusted and improved. 
-But the basics is there:  
+But the basics are there:  
+  
 - Backend end with [Crossbar.io](https://crossbar.io)
 - Front end with React
 - Drawing [Konva](http://konvajs.github.io/)
 
 To do:  
+  
 - Improve the UI
 - Improve the calculations
 - Users and record trainning data in sessions so it can be analyzed later. (Graphs etc ...)
