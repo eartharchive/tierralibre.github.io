@@ -21,12 +21,14 @@ But the basics are there:
 - Front end with React
 - Drawing [Konva](http://konvajs.github.io/)
 
+From a technical point of view the backend uses WAMP messaging great for IoT, the client subscribes to topics and get messages pushed from the server via websockets. So is all realtime.
+
 To do:  
   
 - Improve the UI
 - Improve the calculations
 - Users and record trainning data in sessions so it can be analyzed later. (Graphs etc ...)
-- Add connection to heartbit data. (To measure heartbit during treainning together with posture)
+- Add connection to heartbeat data. (To measure heartbit during treainning together with posture)
 - Make it adapt to phones, tablets, desktop
 
 If you have any ideas on how to improve it or functionality that should be interesting, feel happy to comment.
